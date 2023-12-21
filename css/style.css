@@ -471,7 +471,7 @@ footer .socials a:hover {
   z-index: 9999;
   left: 0;
   top: 0;
-  width: 100%;
+  width: 120%;
   height: auto;
   overflow: auto;
   background-color: rgba(0, 0, 0, 0.6);
